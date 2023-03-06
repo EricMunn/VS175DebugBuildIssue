@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "175test": {
+      "commandName": "Project",
+      "hotReloadEnabled": true
+    }
+  }
+}
